@@ -76,8 +76,3 @@ kubectl apply -f deployment.yml
 kubectl get deployment
 kubectl get rs   #  kubectl get rs is a quick way to check the status of your ReplicaSets in Kubernetes.
 kubectl get pods
-
-
-
-
-
