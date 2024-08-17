@@ -1,4 +1,4 @@
-# K8-s-PV-PVC-Deployment
+# K8-s-PV-PVC-Deployment 
 1. Create one EBS volume using AWS Console
 2. Create PV.yaml and Now, copy the volume ID and paste it into the PV YML file(12th line) 
 3. In this snippet, we have created a Persistent Volume where the EBS volume is attached and 
