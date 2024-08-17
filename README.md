@@ -4,6 +4,7 @@
 3. In this snippet, we have created a Persistent Volume where the EBS volume is attached and 
 created 1GB of capacity.
 sodo vi pv.yml
+
 apiVersion: v1
 kind: PersistentVolume
 metadata:
